@@ -1,0 +1,4 @@
+- Olá, meu nome é Gabriel :)
+- Programação é uma aréa muito interessante, desafiadora e interdisciplinar.
+- Não penso em continuar na área, mas pretendo continuar desenvolvendo e aprendendo.
+- Usarei este perfil para compartilhar projetos pessoais que espero desenvolver.
