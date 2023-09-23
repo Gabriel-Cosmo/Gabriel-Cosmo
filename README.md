@@ -5,7 +5,7 @@
 
 <h2>About me</h2>
 <p>
-Meu interesse por tecnologia, especialmente pela veia cientificada da área, veio de minha afinidade por matemática e cências da natureza, que  possuo. A partir de minha formação como Técnico em TI (pelo IFPB - Campus Sousa) me parofundei mais em busca de adquirir conhecimento em graus maiores, em termos de complexidade e fundamentação na área da computação.
+Meu interesse por tecnologia, especialmente pela veia cientificada da área, veio de minha afinidade por matemática e cências da natureza, que  possuo. A partir de minha formação como Técnico em TI (pelo IFPB - Campus Sousa) me aprofundei mais em busca de adquirir conhecimento em graus maiores, em termos de complexidade e fundamentação na área da computação.
 </p>
 
 - 🌱 I’m currently learning **Angular, Flask, Spring Boot**
